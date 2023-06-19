@@ -459,7 +459,7 @@ void shopping :: receipt()
 
 int main()
 {
-	shopping rishab ;
-	rishab.menu() ;
+	shopping proj ;
+	proj.menu() ;
 	return 0 ;
 }
